@@ -1,3 +1,14 @@
 body {
     padding-top: 5rem;
 }
+
+.alert{
+    color:red;
+    font-weight: 600;
+    font-size: large;
+}
+
+.form-group{
+    padding-bottom: 1em;
+
+}
